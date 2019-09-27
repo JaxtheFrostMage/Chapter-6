@@ -26,8 +26,8 @@ public class FixDebugSix4
          high = input.nextInt();
       }
 
-      while(count == NUM);
-      {
+
+      do{
          double result = Math.random();
           // random() returns value between 0 and 1
          int answer = (int) (result * 10 + low);
@@ -38,7 +38,7 @@ public class FixDebugSix4
             System.out.print(answer + "  ");
             count++;
          }
-      }
+      }while(count != NUM);
       System.out.println();
    }
 }
