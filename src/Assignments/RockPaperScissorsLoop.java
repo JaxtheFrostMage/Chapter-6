@@ -51,6 +51,8 @@ public class RockPaperScissorsLoop {
                 } else if (aiPick == 3) {
                     System.out.println("Scissors and Scissors, Draw!");
                 }
+            } else if(playerPick < 1 || playerPick > 4){
+                System.out.println("ERROR: Improper response\n");
             }
 
         }while(playerPick != 4);

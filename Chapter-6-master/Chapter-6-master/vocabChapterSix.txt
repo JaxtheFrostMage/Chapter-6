@@ -1,0 +1,3 @@
+Loop     	 Iteration	 While Loop	 Indefinite Loop	 Infinite Loop    	 Event-controlled Loop
+ Sentinel	 Validating Date	 Accumulating	 Add and Assign Operator	 Prefix ++	 For Loop
+ Do...While Loop	 Inner Loop	 Outer Loop	 Loop Fusion	 

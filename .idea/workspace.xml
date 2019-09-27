@@ -12,23 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RockPaperScissors.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Chapter-5/src/Assignments/RockPaperScissors.java">
+      <file leaf-file-name="FixDebugSix2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Debugging/FixDebugSix2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="602">
-              <caret line="69" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="69" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RockPaperScissorsLoop.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Assignments/RockPaperScissorsLoop.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="55" column="32" lean-forward="true" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="289">
+              <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -42,6 +30,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>count</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -58,12 +51,16 @@
         <option value="$PROJECT_DIR$/src/Examples/TestFusedLoopTime.java" />
         <option value="$PROJECT_DIR$/src/Examples/CountByThrees.java" />
         <option value="$PROJECT_DIR$/src/Examples/EvenEntryLoop.java" />
-        <option value="$PROJECT_DIR$/src/Examples/TestScoreStatistics.java" />
         <option value="$PROJECT_DIR$/src/Assignments/RockPaperScissorsLoop.java" />
+        <option value="$PROJECT_DIR$/src/Debugging/FixDebugSix1.java" />
+        <option value="$PROJECT_DIR$/src/Debugging/FixDebugSix3.java" />
+        <option value="$PROJECT_DIR$/src/Debugging/FixDebugSix2.java" />
+        <option value="$PROJECT_DIR$/src/Debugging/FixDebugSix4.java" />
+        <option value="$PROJECT_DIR$/src/Examples/TestScoreStatistics.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-7" />
     <option name="width" value="1454" />
     <option name="height" value="867" />
@@ -73,9 +70,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -86,13 +80,18 @@
             <path>
               <item name="Chapter-6" type="b2602c69:ProjectViewProjectNode" />
               <item name="Chapter-6" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter-6-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter-6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter-6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Chapter-6" type="b2602c69:ProjectViewProjectNode" />
               <item name="Chapter-6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="Debugging" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Chapter-6" type="b2602c69:ProjectViewProjectNode" />
@@ -104,11 +103,19 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Chapter-5/src/Assignments/RockPaperScissors.java" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\er306632\Desktop\Java Term 1\Chapter-6\src\Debugging" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -122,47 +129,47 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RockPaperScissorsLoop">
-    <configuration name="CountByThrees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.CountByThrees" />
+  <component name="RunManager" selected="Application.FixDebugSix2">
+    <configuration name="FixDebugSix1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Debugging.FixDebugSix1" />
       <module name="Chapter-6" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Examples.*" />
+          <option name="PATTERN" value="Debugging.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="EvenEntryLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.EvenEntryLoop" />
+    <configuration name="FixDebugSix2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Debugging.FixDebugSix2" />
       <module name="Chapter-6" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Examples.*" />
+          <option name="PATTERN" value="Debugging.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="RockPaperScissorsLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignments.RockPaperScissorsLoop" />
+    <configuration name="FixDebugSix3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Debugging.FixDebugSix3" />
       <module name="Chapter-6" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Assignments.*" />
+          <option name="PATTERN" value="Debugging.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="TestFusedLoopTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.TestFusedLoopTime" />
+    <configuration name="FixDebugSix4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Debugging.FixDebugSix4" />
       <module name="Chapter-6" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Examples.*" />
+          <option name="PATTERN" value="Debugging.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -220,19 +227,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.CountByThrees" />
-      <item itemvalue="Application.TestFusedLoopTime" />
-      <item itemvalue="Application.EvenEntryLoop" />
+      <item itemvalue="Application.FixDebugSix1" />
+      <item itemvalue="Application.FixDebugSix2" />
+      <item itemvalue="Application.FixDebugSix3" />
+      <item itemvalue="Application.FixDebugSix4" />
       <item itemvalue="Application.TestScoreStatistics" />
-      <item itemvalue="Application.RockPaperScissorsLoop" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RockPaperScissorsLoop" />
+        <item itemvalue="Application.FixDebugSix2" />
         <item itemvalue="Application.TestScoreStatistics" />
-        <item itemvalue="Application.EvenEntryLoop" />
-        <item itemvalue="Application.CountByThrees" />
-        <item itemvalue="Application.TestFusedLoopTime" />
+        <item itemvalue="Application.FixDebugSix4" />
+        <item itemvalue="Application.FixDebugSix3" />
+        <item itemvalue="Application.FixDebugSix1" />
       </list>
     </recent_temporary>
   </component>
@@ -251,6 +258,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1454" height="867" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -260,7 +268,7 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32978722" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32978722" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
@@ -281,20 +289,20 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32978722" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="right" id="Theme Preview" order="2" />
       <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2496523" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32978722" />
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Terminal" order="0" />
@@ -312,13 +320,27 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Chapter-5/src/Assignments/RockPaperScissors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="69" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assignments/RockPaperScissorsLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="55" column="32" lean-forward="true" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Examples/RandomGuessAuto.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
           <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -381,13 +403,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Examples/TestScoreStatistics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="82" selection-start-line="25" selection-start-column="82" selection-end-line="25" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Examples/EvenEntryLoop.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -399,26 +414,58 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../Chapter-5/src/Assignments/RockPaperScissors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="602">
-          <caret line="69" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="69" />
+        <state relative-caret-position="1156">
+          <caret line="69" selection-start-line="7" selection-start-column="2" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Debugging/FixDebugSix1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Debugging/FixDebugSix3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="23" column="74" selection-start-line="23" selection-start-column="74" selection-end-line="23" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Examples/TestScoreStatistics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="30" column="55" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Assignments/RockPaperScissorsLoop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="55" column="32" lean-forward="true" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
+        <state>
+          <caret column="20" lean-forward="true" selection-start-column="20" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Debugging/FixDebugSix4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="36" column="10" lean-forward="true" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Debugging/FixDebugSix2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
         </state>
       </provider>
     </entry>
